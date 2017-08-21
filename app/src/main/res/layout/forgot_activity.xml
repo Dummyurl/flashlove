@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:float="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/toolbar"></include>
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="top"
+            android:layout_margin="20dp"
+            android:layout_height="wrap_content">
+
+
+            <com.wrapp.floatlabelededittext.FloatLabeledEditText
+                android:layout_width="match_parent"
+                float:fletPaddingBottom="5dp"
+                float:fletTextAppearance="@style/floatlabelededittext"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/enterp"
+                    android:hint="Enter Email"
+                    android:inputType="textEmailAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </com.wrapp.floatlabelededittext.FloatLabeledEditText>
+
+
+
+            <Button
+                android:id="@+id/submit"
+                android:textColor="#fff"
+                android:background="@drawable/buttonbackground"
+                android:text="Forgot Password"
+                android:layout_marginTop="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
+
+
+

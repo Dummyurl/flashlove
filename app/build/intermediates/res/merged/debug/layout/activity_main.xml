@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="it.flashlov.MainActivity">
+
+
+
+    <ImageView
+        android:src="@drawable/d"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Language:"
+            android:textSize="20dp"
+            android:id="@+id/textView" />
+        <Spinner
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:id="@+id/spinner"
+            android:layout_below="@+id/textView"
+            />
+
+
+        <Button
+            android:text="Confirm"
+            android:layout_marginTop="20dp"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:id="@+id/confirm"
+            android:textColor="#fff"
+            android:background="@drawable/buttonbackground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

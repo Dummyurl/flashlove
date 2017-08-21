@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardCornerRadius="4dp">
+
+    <include layout="@layout/toolbar"/>
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:padding="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_alignParentTop="true"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:layout_width="24dp"
+                android:src="@drawable/heart"
+                android:adjustViewBounds="true"
+                android:layout_height="wrap_content" />
+
+
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/top"
+            android:id="@+id/middle"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+
+
+                <it.flashlov.utility.RoundedImageView
+                    android:id="@+id/user_image1"
+                    android:layout_gravity="center"
+                    android:adjustViewBounds="true"
+                    android:layout_centerInParent="true"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        android:id="@+id/user_name"
+                        android:layout_below="@+id/user_image"
+                        android:layout_marginTop="10dp"
+                        android:maxLines="2"
+                        android:ellipsize="end"
+                        android:gravity="center"
+                        android:textSize="18sp"
+                        android:text="Polly Pollon"
+                        android:textColor="@color/black"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+
+                    <TextView
+                        android:id="@+id/user_addr"
+                        android:layout_below="@+id/user_image"
+                        android:layout_marginTop="10dp"
+                        android:maxLines="2"
+                        android:ellipsize="end"
+                        android:textSize="15sp"
+                        android:gravity="center"
+                        android:text="Online"
+                        android:textColor="#ccc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/middle"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp">
+                <Button
+                    android:text="Add as friend"
+                    android:textSize="15sp"
+                    android:id="@+id/request"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:background="@drawable/buttonbackground"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content" />
+                <Button
+                    android:text="Message"
+                    android:textSize="16sp"
+                    android:id="@+id/messageeee"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/white"
+                    android:textAllCaps="false"
+                    android:background="@drawable/buttonbackground"
+                    android:layout_width="170dp"
+                    android:layout_height="wrap_content" />
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+              android:layout_margin="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1">
+
+                <TextView
+                    android:layout_marginTop="50dp"
+                    android:text="Description:"
+                    android:textSize="15sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    />
+                <TextView
+                    android:textSize="15sp"
+                    android:layout_marginTop="10dp"
+                    android:text="Uploaded photos"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="72dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="bottom">
+                    <LinearLayout
+                        android:id="@+id/thumbnails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:paddingTop="2dp"/>
+                </HorizontalScrollView>
+
+
+            </LinearLayout>
+        </RelativeLayout>
+
+
+
+</RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/people"
+            android:icon="@drawable/people"
+            android:title="People" />
+        <item
+            android:id="@+id/love_game"
+            android:icon="@drawable/lovegame"
+            android:title="Love Game" />
+        <item
+            android:id="@+id/appoinment"
+            android:icon="@drawable/appointment"
+            android:title="Appointment" />
+        <item
+            android:id="@+id/messages"
+            android:icon="@drawable/messages"
+            android:title="Messages" />
+        <item
+            android:id="@+id/profilev"
+            android:icon="@drawable/profilev"
+            android:title="Profile Visitors" />
+        <item
+            android:id="@+id/profilel"
+            android:icon="@drawable/profilelike"
+            android:title="Profile Like" />
+        <item
+            android:id="@+id/liked"
+            android:icon="@drawable/liked"
+            android:title="Liked" />
+        <item
+            android:id="@+id/prefferd"
+            android:icon="@drawable/preffered"
+            android:title="Preferred" />
+        <item
+            android:id="@+id/upgrades"
+            android:icon="@drawable/upgrades"
+            android:title="Upgrades" />
+        <item
+            android:id="@+id/friends"
+            android:icon="@drawable/frnds"
+            android:title="Friends" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/settings"
+            android:title="Settings" />
+    </group>
+
+    <item android:title="Pages">
+        <menu>
+            <item
+                android:id="@+id/contacts"
+                android:icon="@drawable/contact"
+                android:title="Contacts" />
+            <item
+                android:id="@+id/trms"
+                android:icon="@drawable/termsandservices"
+                android:title="Terms of Services" />
+        </menu>
+    </item>
+
+</menu>

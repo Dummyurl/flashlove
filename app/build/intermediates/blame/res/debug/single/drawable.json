@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_icon.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ln_logo.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\ln_logo.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.jpg",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preffered.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\preffered.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbackground.xml",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\buttonbackground.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profilelike.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\profilelike.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_placeholder.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\user_placeholder.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.jpg",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\passww.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\passww.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appointment.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\appointment.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\passww.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\passww.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frnds.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\frnds.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ln_logo.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\ln_logo.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgheader.jpg",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\bgheader.jpg"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liked.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\liked.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\userrr.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\userrr.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_fill.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\heart_fill.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lovegame.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\lovegame.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profilev.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\profilev.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\e.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preffered.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\preffered.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_fill.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\star_fill.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\name.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\name.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profilev.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\profilev.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.jpg",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrades.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\upgrades.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\termsandservices.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\termsandservices.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbackground.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\buttonbackground.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_fb.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\background_fb.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_fill.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\star_fill.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\app.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\name.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\name.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoq.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\logoq.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoq.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\logoq.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_placeholder.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\user_placeholder.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\app.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\filter.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gender.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\gender.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart_fill.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\heart_fill.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\people.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\e.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\termsandservices.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\termsandservices.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgheader.jpg",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\bgheader.jpg"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profilelike.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\profilelike.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logooo.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\logooo.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\bb.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppp.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\ppp.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logooo.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\logooo.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.jpg",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\d.jpg"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password_icon.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\password_icon.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_icon.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\fb_icon.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\people.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.jpg",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.jpg",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\d.jpg"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gender.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\gender.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frnds.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\frnds.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\bb.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liked.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\liked.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messages.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\messages.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\userrr.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\userrr.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filterrr.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\filterrr.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppp.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\ppp.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\age.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\age.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_icon.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lovegame.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\lovegame.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messages.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\messages.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filterrr.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\filterrr.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\fab.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_fb.xml",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\background_fb.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\fab.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrades.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\upgrades.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.1.0\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\filter.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_icon.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\fb_icon.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_selector.xml",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\toggle_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appointment.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\appointment.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_selector.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\toggle_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.7.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password_icon.png",
+        "source": "D:\\Android Developement\\Flashlove\\app\\src\\main\\res\\drawable\\password_icon.png"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\age.png",
+        "source": "D:\\Flashlove\\app\\src\\main\\res\\drawable\\age.png"
+    },
+    {
+        "merged": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Android Developement\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Flashlove\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Flashlove\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    }
+]

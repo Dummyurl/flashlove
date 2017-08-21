@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#com.example.karshima.flashlove.permission.MAPS_RECEIVE
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:8:5-94
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:8:22-91
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:10:5-98
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:10:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:13:22-78
+permission#com.example.karshima.flashlove.permission.MAPS_RECEIVE
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:23:5-25:47
+	android:protectionLevel
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:24:9-78
+uses-feature#0x00020000
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:28:9-32
+uses-feature#android.hardware.location.gps
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:30:19-63
+application
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:32:5-86:19
+MERGED from [com.android.support:cardview-v7:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:24:5-19
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.wrapp.floatlabelededittext\library\0.0.6\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-location:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.wdullaer:materialdatetimepicker:2.1.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.1.0\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:24.0.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:36:9-41
+	android:supportsRtl
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:37:9-35
+	android:allowBackup
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:35:9-39
+	android:theme
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:38:9-40
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:33:9-52
+activity#it.flashlov.SplashScreenActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:39:19-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:43:27-74
+activity#it.flashlov.MainActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:46:9-61
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:46:19-58
+activity#it.flashlov.LoginActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:47:9-62
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:47:19-59
+activity#it.flashlov.RegisterActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:48:9-65
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:48:19-62
+activity#it.flashlov.ForgotActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:49:9-63
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:49:19-60
+activity#it.flashlov.DashboardActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:50:9-53:47
+	android:label
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:52:13-57
+	android:theme
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:51:13-57
+activity#it.flashlov.ProfileActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:54:9-73
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:54:19-61
+activity#it.flashlov.PeopleDetailActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:55:9-78
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:55:19-66
+activity#it.flashlov.AppointmentData
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:56:9-73
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:56:19-61
+meta-data#com.google.android.gms.version
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:58:8-60:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:59:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:61:9-63:55
+	android:value
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:62:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:65:9-67:55
+	android:value
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:67:13-52
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:66:13-58
+activity#it.flashlov.MapsActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:69:9-71:68
+	android:label
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:70:13-52
+activity#it.flashlov.PfilterResultActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:73:9-78:68
+	android:screenOrientation
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:78:13-56
+	android:windowSoftInputMode
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:77:13-60
+	android:configChanges
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:75:13-48
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:74:13-61
+activity#com.facebook.FacebookActivity
+ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:80:9-84:75
+	android:label
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:83:13-45
+	android:configChanges
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:82:13-96
+	android:theme
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:84:13-72
+	android:name
+		ADDED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml:81:13-57
+uses-sdk
+INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:multidex:1.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:23:5-42
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.wrapp.floatlabelededittext\library\0.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-location:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.wdullaer:materialdatetimepicker:2.1.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:24.0.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Developement\Flashlove\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:2.1.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.1.0\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:2.1.0] D:\Android Developement\Flashlove\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.1.0\AndroidManifest.xml:26:22-63
